@@ -2,7 +2,7 @@ lesson01
 git init/add/commit/config/log
 
 lesson02
-git & github
+git, master/main/branch
 
 lesson03
 github, FtoC
