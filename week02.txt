@@ -6,4 +6,4 @@ git, master/main/branch
 
 lesson03
 github, FtoC
-git remote/push/pull
+git remote/push/pull/clone
